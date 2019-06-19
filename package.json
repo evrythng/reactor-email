@@ -1,0 +1,16 @@
+{
+  "name": "reactor-email",
+  "version": "1.0.0",
+  "description": "Reusable Reactor script to send an email from a Google account.",
+  "main": "main.js",
+  "keywords": [
+    "evrythng",
+    "reactor"
+  ],
+  "author": "EVRYTHNG Ltd.",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "evrythng-extended": "^4.7.2",
+    "node-mailer": "^0.1.1"
+  }
+}
