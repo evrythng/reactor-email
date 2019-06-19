@@ -30,8 +30,9 @@ To get correct credentials, follow these instructions:
 8. Click top-right Settings (gear icon), choose
   'Use your own OAuth credentials', enter them.
 9. Enter 'https://mail.google.com/' under list of APIs, click 'Authorize APIs'.
-10. Click 'Exchange authorization code for tokens', then set REFRESH_TOKEN as
+10. Click 'Exchange authorization code for tokens', then set `REFRESH_TOKEN` as
   provided.
+11. Save and submit the Reactor script.
 
 
 ## Usage
